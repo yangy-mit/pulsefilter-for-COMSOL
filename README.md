@@ -1,5 +1,5 @@
 # pulsefilter-for-COMSOL
-A MATLAB function to post-process frequency-domain COMSOL simulation results for optical pulse shaping. 
+A MATLAB function to post-process frequency-domain COMSOL simulation results for a time-domain input optical pulse. 
 
 This function takes an input pulse electric field waveform, and produces the electric field waveform, the envelope, the frequency vector, and the frequency-domain complex electric field, after enhancement induced by a nanostructure simulated in COMSOL. 
 
